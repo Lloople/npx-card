@@ -2,7 +2,7 @@
 
 Via npx:
 ```
-npx lloople
+npx @lloople/npx-card
 ```
 
 # Credits
